@@ -1,0 +1,53 @@
+#s{
+    font-size: 70px;
+}
+#e{
+    font-size: 15px;
+    color: rgb(124, 124, 120);
+}
+p{
+    font-size: 15px;
+}
+#a{
+text-decoration: underline;
+background-color: rgb(228, 238, 238);
+}
+.abc:hover{
+    background-color: rgb(228, 238, 238);
+    
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color: black;
+}
+.d{
+    font-weight: bold;
+    margin-left: 30px;
+    font-size: 28px;
+    
+}
+#g{
+   margin-left: 30px; 
+   font-size: 12px;
+   color:  rgb(128, 131, 131);
+}
+#k{
+    font-size: 12px;
+}
+h1{
+font-size: 30px;
+}
+.l{
+    font-size: 20px;
+    margin-left: 30px;
+}
+input:focus{
+    background-color: rgb(174, 222, 238);
+}
+textarea:focus{
+    background-color: rgb(174, 222, 238);
+
+}
